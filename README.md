@@ -24,7 +24,6 @@ go build
 ```
 
 4.将mbook.sql和mbook_useraction.sql导入数据库
-> 其中mbook_useraction.sql可以在第五章的时候再导入
 
 5.运行服务
 ```
